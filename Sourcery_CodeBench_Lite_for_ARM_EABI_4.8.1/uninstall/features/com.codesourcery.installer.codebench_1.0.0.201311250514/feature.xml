@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.codesourcery.installer.codebench"
+      label="Codebench Installer"
+      version="1.0.0.201311250514"
+      provider-name="Mentor Graphics">
+
+   <description url="http://www.example.com/description">
+      [Enter Feature Description here.]
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      [Enter License Description here.]
+   </license>
+
+   <includes
+         id="com.codesourcery.installer"
+         version="1.0.0.201311250514"/>
+
+
+   <includes
+         id="com.codesourcery.patch.p2.natives"
+         version="1.0.0.201311250514"/>
+
+   <plugin
+         id="com.codesourcery.installer.codebench"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.201311250514"
+         unpack="false"/>
+
+   <plugin
+         id="com.codesourcery.util"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.201311250514"
+         unpack="false"/>
+
+   <plugin
+         id="com.codesourcery.p2"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.201311250514"
+         unpack="false"/>
+
+</feature>

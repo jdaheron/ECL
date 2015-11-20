@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1400595726070" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_1.4.1.v20120726-050831-8R7xFOUFLWUl7MoSKV_OFXl27/" version="1.4.1.v20120726-050831-8R7xFOUFLWUl7MoSKV_OFXl27">
+</feature>
+<feature id="com.codesourcery.installer.codebench" url="features/com.codesourcery.installer.codebench_1.0.0.201311250514/" version="1.0.0.201311250514">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.1.0.v20120524-0542-8297FncFWmE7h4Asx2cpqz-T38/" version="1.1.0.v20120524-0542-8297FncFWmE7h4Asx2cpqz-T38">
+</feature>
+<feature id="com.codesourcery.patch.p2.natives" url="features/com.codesourcery.patch.p2.natives_1.0.0.201311250514/" version="1.0.0.201311250514">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_3.8.1.v20120815-074604-9gF7jI7wG5qDyZMWGg8NPvDbfWFWlIJU-kYaOQ/" version="3.8.1.v20120815-074604-9gF7jI7wG5qDyZMWGg8NPvDbfWFWlIJU-kYaOQ">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.1.0.v20120524-0542-785EoBqNKNYz-GX2sUgCaBty3dqr/" version="1.1.0.v20120524-0542-785EoBqNKNYz-GX2sUgCaBty3dqr">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_3.8.1.v20120814-105048-92BmGJlFw3Ez0WZ9TxCqgcSVAE/" version="3.8.1.v20120814-105048-92BmGJlFw3Ez0WZ9TxCqgcSVAE">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.2.0.v20120524-0542-62DG9JXTlSiz-UbcP0w0KGl9CKNP/" version="2.2.0.v20120524-0542-62DG9JXTlSiz-UbcP0w0KGl9CKNP">
+</feature>
+<feature id="com.codesourcery.installer" url="features/com.codesourcery.installer_1.0.0.201311250514/" version="1.0.0.201311250514">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.1.0.v20120524-0542-7A6FEcDiVOTg1Q_HuZrEuBty3dqr/" version="1.1.0.v20120524-0542-7A6FEcDiVOTg1Q_HuZrEuBty3dqr">
+</feature>
+</site>
+</config>

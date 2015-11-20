@@ -1,0 +1,7 @@
+# Liste des fichiers et dossiers à ignorer...
+/_INSTALL
+/as4e-ide
+/avr-toolchain-3.4.2.1573
+/Makefile_wrk
+/gcc-arm-none-eabi-4_9-2015q2-20150609
+/Test_workspace

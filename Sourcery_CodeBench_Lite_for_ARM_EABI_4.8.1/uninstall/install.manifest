@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<install version="1.0">
+  <products>
+    <product id="Sourcery_CodeBench_Lite_for_ARM_EABI" location="C:\ECLIPSE_ENV\Sourcery_CodeBench_Lite_for_ARM_EABI" name="Sourcery CodeBench Lite for ARM EABI" version="2013.11.0.24">
+      <actions>
+        <action id="com.codesourcery.installer.installIUAction">
+          <roots installLocation="C:/ECLIPSE_ENV/Sourcery_CodeBench_Lite_for_ARM_EABI/eclipse" profile="SGXXProfile">
+            <root id="com.codesourcery.toolchain.arm_none_eabi" version="2013.11.0.24"/>
+            <root id="jre" version="1.7.0"/>
+          </roots>
+        </action>
+        <action id="com.codesourcery.installer.shortcutAction" name="Uninstall Sourcery CodeBench Lite for ARM EABI" path="C:\Users\p.guegan\Desktop"/>
+        <action id="com.codesourcery.installer.pathAction">
+          <paths>
+            <path value="C:\ECLIPSE_ENV\Sourcery_CodeBench_Lite_for_ARM_EABI\bin"/>
+          </paths>
+        </action>
+        <action id="com.codesourcery.installer.uninstallLinkAction"/>
+        <action id="com.codesourcery.installer.codebench.improvementProgramInstallAction"/>
+      </actions>
+    </product>
+  </products>
+</install>

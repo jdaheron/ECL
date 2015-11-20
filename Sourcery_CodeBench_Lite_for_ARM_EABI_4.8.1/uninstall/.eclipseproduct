@@ -1,0 +1,5 @@
+#Eclipse Product File
+#Mon Nov 25 05:14:36 PST 2013
+version=1.0.300.201311250514
+name=CodeBench Installer
+id=com.codesourcery.installer.product

@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+toolchain.name=GNU Tools for ARM Embedded Processors
+toolchain.path.1287942917=D\:\\ECLIPSE_ENV\\gcc-arm-none-eabi-4_9-2015q2-20150609\\bin
+toolchain.path.2029746065=D\:\\ECLIPSE_ENV\\avr-toolchain-3.4.2.1573\\bin

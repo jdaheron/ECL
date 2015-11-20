@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Export-Package: com.codesourcery.portal,org.apache.commons.httpclient,
+ org.apache.xmlrpc
+Bundle-Vendor: Mentor Graphics
+Bundle-ClassPath: commons-cli-1.1.jar,commons-codec-1.3.jar,commons-ht
+ tpclient-3.1.jar,commons-logging-api-1.1.1.jar,ws-commons-util-1.0.2.
+ jar,xmlrpc-client-3.1.jar,xmlrpc-common-3.1.jar,portal.jar
+Bundle-Version: 1.0.0.201311250514
+Bundle-Name: Sourcery CodeBench Portal Connection
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.codesourcery.portal
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+
